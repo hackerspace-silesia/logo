@@ -1,4 +1,4 @@
 logo
 ====
 
-Propozycje logo
+Aktualne logo Hackerspace Silesia
